@@ -93,10 +93,3 @@ La **staging area** (aussi appelée *index*) est une **zone intermédiaire** où
 | Staging area | Zone avant commit      |
 
 ```
-
-Si tu veux que je génère ce cours **prêt à déposer dans ton repo GitHub** (avec liens internes vers les sections du README), dis-le moi !
-::contentReference[oaicite:6]{index=6}
-```
-
-[1]: https://medium.com/%40yutung3397/git-basics-for-beginners-using-version-control-to-safeguard-projects-7161a74858ae?utm_source=chatgpt.com "Git Basics for Beginners: Using version control to safeguard projects | by Michelle Cu | Medium"
-[2]: https://yanickvanweydeveldt.com/git-guide?utm_source=chatgpt.com "Understanding Git: A Guide to Version Control | Yanick Van Weydeveldt"
