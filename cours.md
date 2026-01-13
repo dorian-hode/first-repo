@@ -1,12 +1,12 @@
 # 🧠 Cours rapide de Git
 
 ## 🔹 Git, c’est quoi ?
-Git est un **système de contrôle de version distribué** qui permet de suivre les modifications d’un projet, collaborer avec d’autres et revenir à des versions antérieures facilement. Chaque développeur possède une **copie complète de l’historique** sur sa machine. :contentReference[oaicite:0]{index=0}
+Git est un **système de contrôle de version distribué** qui permet de suivre les modifications d’un projet, collaborer avec d’autres et revenir à des versions antérieures facilement. Chaque développeur possède une **copie complète de l’historique** sur sa machine. 
 
 ---
 
 ## 🔹 Version control ?
-Le **contrôle de version** (Version Control System – VCS) est une technologie qui enregistre l’historique des modifications d’un code/projet. Elle permet de savoir *qui a fait quoi*, *quand*, et de revenir à une version précédente si besoin. :contentReference[oaicite:1]{index=1}
+Le **contrôle de version** (Version Control System – VCS) est une technologie qui enregistre l’historique des modifications d’un code/projet. Elle permet de savoir *qui a fait quoi*, *quand*, et de revenir à une version précédente si besoin.
 
 ---
 
@@ -33,7 +33,7 @@ Le **contrôle de version** (Version Control System – VCS) est une technologie
 - Plus de sécurité des données
 
 **Inconvénients :**
-- Un peu plus complexe à maîtriser au début :contentReference[oaicite:2]{index=2}
+- Un peu plus complexe à maîtriser au début
 
 ---
 
@@ -43,7 +43,7 @@ Un **commit** est un **snapshot** (capture) de ton projet à un instant donné, 
 - un identifiant unique (SHA),
 - des infos auteur/date.
 
-Chaque commit devient une étape dans l’historique que tu peux consulter ou revenir à plus tard. :contentReference[oaicite:3]{index=3}
+Chaque commit devient une étape dans l’historique que tu peux consulter ou revenir à plus tard.
 
 ---
 
@@ -69,7 +69,7 @@ Ces infos seront attachées à tes commits.
 Une **branche** est une **ligne de développement indépendante**.
 
 * Tu peux créer une branche pour une fonctionnalité, tester, puis l’intégrer ensuite dans la branche principale.
-* Chaque branche a son propre historique à partir du point de création. ([Medium][1])
+* Chaque branche a son propre historique à partir du point de création.
 
 ---
 
